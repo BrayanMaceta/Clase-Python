@@ -1,6 +1,6 @@
 # Clase-Python
 
-# Pedir dos números al usuario
+"# Pedir dos números al usuario
 numero1 = float(input("Introduce el primer número: "))
 numero2 = float(input("Introduce el segundo número: "))
 
@@ -8,4 +8,4 @@ numero2 = float(input("Introduce el segundo número: "))
 suma = numero1 + numero2
 
 # Mostrar el resultado
-print("La suma de los dos números es:", suma)
+print("La suma de los dos números es:", suma)"
