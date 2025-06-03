@@ -149,7 +149,6 @@ else:
 ```
 Ejercicio 10:
 ```python
-# Ejercicio 10: Salario con bonificación
 # Calcula el salario total con un bono del 10%
 
 salario_base = float(input("Ingrese el salario base del empleado: "))
