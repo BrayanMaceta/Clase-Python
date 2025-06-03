@@ -13,3 +13,4 @@ suma = numero1 + numero2
 # Mostrar el resultado  
 print("La suma de los dos números es:", suma)  
 ```
+Ejercicio 2:
